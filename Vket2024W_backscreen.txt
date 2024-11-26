@@ -1,1 +1,1 @@
-TosiakixStereo,0.004,1.0,0.5,1,0,0,0.5,1,0.5,0
+Generic;_Zoom=0.8;_OffsetZ=0.006;_SwapEyes=0
